@@ -1,1 +1,5 @@
+To train the classifier you will have to use the dependency tagged treebank at:
+http://universaldependencies.org/ (use the EWT treebank for English)
+
+Built a Transition based Dependency Parser with a Feed Forward Neural Network Classifier
 Accuracy of The MLPClassifier is : 0.638520801233
